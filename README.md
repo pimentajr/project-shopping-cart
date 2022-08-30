@@ -37,10 +37,10 @@ Com os softwares instalados, siga as instruções abaixo:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/pimentajr/project-shopping-cart
+git clone https://github.com/pimentajr/trybe-shopping-cart
 
 # Entrar no diretório
-cd project-shopping-cart
+cd trybe-shopping-cart
 
 # Baixar as dependências
 npm i
